@@ -17,3 +17,26 @@ Chinook Database (Music Store Data): The objective was to analyze customer purch
 
 Sales Dataset/Sample Sales Data: The objective was to examine sales transactions, identify top-performing products, evaluate customer buying patterns, monitor revenue performance, and discover key sales trends that can help optimize business operations and increase profitability.
 
+## PROJECT OBJECTIVES
+- Analyze customer, sales, and transactional data using SQL to extract meaningful business insights.
+
+- Practice writing efficient SQL queries using filtering, sorting, joins, aggregate functions
+
+- Explore customer purchasing behavior, product performance, and revenue trends from the Chinook and Sales datasets.
+
+- Identify top-selling products, best-performing artists, high-value customers, and key sales metrics.
+
+- Generate reports that support data-driven decision-making for business stakeholders.
+
+
+## TOOLS USED
+- Kaggle
+- Github
+- ChatGPT
+- SSMS MACHINE
+
+## EXPLORATORY DATA ANALYSIS
+
+Before performing business analysis, an exploratory review was conducted on both datasets to understand their structure, the relationships, identify data quality issues, and prepare them for SQL analysis.
+
+## VISUALIZATION
